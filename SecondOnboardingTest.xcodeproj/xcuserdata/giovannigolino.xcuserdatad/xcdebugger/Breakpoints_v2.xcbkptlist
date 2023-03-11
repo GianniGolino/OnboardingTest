@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7F4422BE-3AA2-40CB-A6B6-DAA8FEA4A664"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC75EC1A-B33E-41FD-AA9A-27DC34B2E4C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecondOnboardingTest/SignInUpViews/SignUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1B7529F-9DF4-489E-B185-7AC9A4D8D211"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecondOnboardingTest/OnboardingViews/FinalOnboardingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "FinalOnboardingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C1B7529F-9DF4-489E-B185-7AC9A4D8D211 - f8f6f3eb676bb782"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondOnboardingTest.FinalOnboardingViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SecondOnboardingTest.FinalOnboardingViewController"
+                  moduleName = "SecondOnboardingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giovannigolino/Desktop/2gApps/study-Apps/SecondOnboardingTest/SecondOnboardingTest/OnboardingViews/FinalOnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C1B7529F-9DF4-489E-B185-7AC9A4D8D211 - cfc6ab284283cab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondOnboardingTest.FinalOnboardingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SecondOnboardingTest.FinalOnboardingViewController"
+                  moduleName = "SecondOnboardingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giovannigolino/Desktop/2gApps/study-Apps/SecondOnboardingTest/SecondOnboardingTest/OnboardingViews/FinalOnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C1B7529F-9DF4-489E-B185-7AC9A4D8D211 - e274541bc697722a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondOnboardingTest.FinalOnboardingViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SecondOnboardingTest.FinalOnboardingViewController&gt;"
+                  moduleName = "SecondOnboardingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giovannigolino/Desktop/2gApps/study-Apps/SecondOnboardingTest/SecondOnboardingTest/OnboardingViews/FinalOnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C1B7529F-9DF4-489E-B185-7AC9A4D8D211 - ba163671a47c0917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondOnboardingTest.FinalOnboardingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SecondOnboardingTest.FinalOnboardingViewController&gt;"
+                  moduleName = "SecondOnboardingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giovannigolino/Desktop/2gApps/study-Apps/SecondOnboardingTest/SecondOnboardingTest/OnboardingViews/FinalOnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C1B7529F-9DF4-489E-B185-7AC9A4D8D211 - ce43cec8108a8df2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondOnboardingTest.FinalOnboardingViewController.__deallocating_deinit"
+                  moduleName = "SecondOnboardingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giovannigolino/Desktop/2gApps/study-Apps/SecondOnboardingTest/SecondOnboardingTest/OnboardingViews/FinalOnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
